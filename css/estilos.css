@@ -6,3 +6,23 @@ body{
     margin: 0;
     padding: 0;
 }
+.caja{
+    display: flex;
+    flex-direction: column;
+    height: 65vh;
+    background-color: cyan;
+}
+.caja1{
+    display: flex;
+    height: 35vh;
+    background-color: rgb(0, 255, 115);
+}
+.caja2{
+    display: flex;
+    height: 35vh;
+    background-color: rgb(162, 0, 255);
+}.caja3{
+    display: flex;
+    height: 35vh;
+    background-color: rgba(255, 14, 195, 0.979);
+}
